@@ -17,7 +17,7 @@ end
 
 #interview exercise
 # $count = 0
-# 
+#
 # def take_a_number(katz_deli)
 #   $count += 1
 #   katz_deli.push($count)
